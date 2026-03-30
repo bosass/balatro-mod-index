@@ -1,5 +1,5 @@
 {
-  "title": "ReadableTarots",
+  "title": "At a glance - Readable Tarots",
   "requires-steamodded": true,
   "requires-talisman": false,
   "categories": ["Resource Packs"],
@@ -7,7 +7,7 @@
   "repo": "https://github.com/bosass/Readable-Tarots-Balatro-mod-",
   "downloadURL": "https://github.com/bosass/Readable-Tarots-Balatro-mod-/releases/latest/download/ReadableTarots.zip",
   "folderName": "ReadableTarots",
-  "version": "1.1",
+  "version": "1.2",
   "automatic-version-check": true
 
 }
